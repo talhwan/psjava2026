@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class MainLab01 {
     public static void main(String[] args) {
         MainLab01 mainLab01 = new MainLab01();
-        mainLab01.j005();
+        mainLab01.j001();
     }
     void j000(){
         //변수 선언

@@ -1,4 +1,5 @@
 #프로그래밍 스튜디오 Java Lab 01
+
 2300000 김세진
 
 ### Java Lab#1 - Console Input & Output
